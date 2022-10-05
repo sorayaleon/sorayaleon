@@ -8,8 +8,6 @@
 
 <p>Hi, I'm Soraya, veterinarian 👩‍⚕️ and web developer 👩‍💻. I work as a frontend developer. I like doing sports, biking, reading, playing the piano and watching series.</p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sorayaleon&&show_icons=true&theme=radical" alt="sorayaleon's Github Stats">
-
 **More about me...**
 
 - 👨🏻‍💻 I’m currently working on Node.js, Express.js, VueJS, Angular, MongoDB, etc
